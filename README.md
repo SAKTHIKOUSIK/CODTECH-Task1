@@ -54,3 +54,15 @@ Output :
 
 ![Screenshot 2024-07-03 085341](https://github.com/SAKTHIKOUSIK/CODTECH-Task1/assets/132210032/4fe0d255-f66c-472c-9fd3-017a9d60152f)
 
+![Screenshot 2024-07-03 085559](https://github.com/SAKTHIKOUSIK/CODTECH-Task1/assets/132210032/3a1c28f4-2b75-493b-b258-4a06c6b04c5b)
+
+![Screenshot 2024-07-03 085703](https://github.com/SAKTHIKOUSIK/CODTECH-Task1/assets/132210032/f0578f71-ea94-40e4-8589-655318ff6082)
+
+![Screenshot 2024-07-03 085835](https://github.com/SAKTHIKOUSIK/CODTECH-Task1/assets/132210032/81db7f65-5311-4304-bc05-7d6091151657)
+
+![Screenshot 2024-07-03 085954](https://github.com/SAKTHIKOUSIK/CODTECH-Task1/assets/132210032/264361db-be94-40ea-98d3-b01eb47778f9)
+
+![Screenshot 2024-07-03 090044](https://github.com/SAKTHIKOUSIK/CODTECH-Task1/assets/132210032/9f4c89a5-ca12-417a-8df4-ecf10a9d7d45)
+
+
+
