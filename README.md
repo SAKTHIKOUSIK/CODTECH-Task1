@@ -4,7 +4,7 @@ Company: CODTECH IT SOLUTIONS
 ID: CT08DS1633
 Domain: DATA SCIENCE
 Duration: 5Th JUNE 2024 to 5Th JULY 2024
-Mentor: G.SRAVANI
+Mentor: G.SRAVANI 
 
 🚢 Project Overview: Exploratory Data Analysis on the Titanic Dataset 📊
 
